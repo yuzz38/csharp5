@@ -1,2 +1,3 @@
 Лабораторная работа №5
-![Uploading Анимация.gif…]()
+
+![Alt Text]((https://jmp.sh/s/DazFzw5OrJIGT1TL54sI))
