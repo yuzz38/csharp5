@@ -1,3 +1,4 @@
 Лабораторная работа №5
 
-![Alt Text]([https://jmp.sh/s/DazFzw5OrJIGT1TL54sI])
+![Анимация](https://github.com/user-attachments/assets/84a2c4d9-692c-466d-a151-f0d2c78a05be)
+
